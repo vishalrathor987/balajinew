@@ -1,0 +1,14 @@
+
+main{
+    border: 1px solid blue;
+    height: 965px;
+
+}
+footer{
+    border: 1px solid green;
+    height: 443px;
+}
+.ptop{
+    background-color: aliceblue;
+    height: 120px;
+}
