@@ -10,5 +10,44 @@ footer{
 }
 .ptop{
     background-color: aliceblue;
-    height: 120px;
+    height: 200px;
+    
+   
+}
+.a_row{
+
+    background-color: white;
+    height: 200px;
+    max-width: 
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    justify-content: center;
+    line-height: 25px;
+    --bs-gutter-x: 1.rem;
+    --bs-gutter-y: auto;
+
+}
+.c_png{
+    height: 100%;
+    text-align: center;
+    justify-content: center;
+    
+
+    
+}
+.m_png{
+    height: 90px;
+    
+    margin-top: 20px;
+}
+
+h5{
+    width: px;
+    height: 10px;   
+}
+.b_row{
+    height: 500px;
+    padding: 0;
+    margin: 0;
 }
