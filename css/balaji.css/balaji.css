@@ -1,7 +1,7 @@
 
 main{
     border: 1px solid blue;
-    height: 965px;
+    max-height:  
 
 }
 footer{
@@ -9,44 +9,50 @@ footer{
     height: 443px;
 }
 .ptop{
-    background-color: aliceblue;
-    height: 200px;
+    background-color: e;
+   position:static;
+    margin-top: 50px;
     
    
 }
 .a_row{
 
     background-color: white;
-    height: 200px;
+    max-height: 100px;
     display: flex;
     flex-direction: row;
     text-align: center;
-    justify-content: center;
-    line-height: 25px;
-    --bs-gutter-x: 1.rem;
-    --bs-gutter-y: auto;
+
+    
+   
 
 }
 .c_png{
-    height: 100%;
     text-align: center;
     justify-content: center;
-    
-
-    
 }
 .m_png{
-    height: 90px;
-    
+    max-height: 90px;
+    min-height: 40px;
     margin-top: 20px;
 }
-
 h5{
-    width: px;
+    
     height: 10px;   
 }
-.b_row{
-    height: 500px;
-    padding: 0;
-    margin: 0;
+.bd{
+    border: 1px solid red;
+}
+.heading{
+    
+}
+.rounded{
+    max-height:100px; 
+}
+.card-img-top{
+    max-height: 50px;
+    max-width: 50px;
+}
+.product{
+    max-height: 200px;
 }
