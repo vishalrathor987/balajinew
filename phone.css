@@ -1,0 +1,59 @@
+@media (max-width:400px){
+    .dashb{
+        height: 230px;
+    }
+    .wel{
+        margin-right: 8px;
+        font-size: 1.2rem;
+        margin-top: 23px;
+    }
+    .col-3{
+        flex: 0 0 auto;
+    width: 100%;
+    cursor: pointer;
+    }
+    .col-4{
+        width: 100%;
+    }
+    .product-page{
+        width: 100%;
+    }
+    #bimg {
+        height: 300px;
+    }
+    .produkt {
+        height: 500px;
+        margin-left: 0px;
+    }
+    .textdt {
+        margin-left: 20px;
+        margin-top: -200px;
+        font-family: sans-serif;
+    }
+    .brandname{
+        font-size: 1rem;
+    }
+    .rom{
+        font-size: 1.3rem;
+    }
+    .prize{
+        font-size: 1.2rem;
+        margin-top: -20px;
+    }
+    .size{
+        margin-top: 10px;
+        margin: 10px;
+        padding: 0;
+    }
+    button{
+        width: 60px;
+        height: 26px;
+        padding: 1px;
+        font-size: 0.6rem;
+    }
+    .product-2 {
+        margin-top: -130px;
+    }
+    
+    
+}
