@@ -28,7 +28,7 @@
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav me-auto mb-2 mb-lg-0">
           <li class="nav-item">
-            <a class="nav-link active text-white" aria-current="page" href="#">HOME</a>
+            <a class="nav-link active text-white" aria-current="page" href="index.php">HOME</a>
           </li>
           <li class="nav-item">
             <a class="nav-link text-white" href="#">TOP MODALS</a>
@@ -68,27 +68,27 @@
     <div class="container-fluid">
       <div class="row">
         <div class="col-3 m-1 border text-center fs-3">
-         <a href="product.html"><img src="img/productimages/headphones/head3.jpg" class="product mx-auto d-block" alt="...">
+         <a href="login.php"><img src="img/productimages/headphones/head3.jpg" class="product mx-auto d-block" alt="...">
           <h5 class="card-title">HEADPHONES</h5>
           <p class="card-text">content is a little bit longer.</p>
           <h3>Rs.800</h3> </a>
         </div>
 
         <div class="col-3 m-1 border text-center fs-3">
-         <a href="product.html"><img src="img/productimages/headphones/birds1.jpg" class="product mx-auto d-block" alt="...">
+         <a href="product.php"><img src="img/productimages/headphones/birds1.jpg" class="product mx-auto d-block" alt="...">
           <h5 class="card-title">HEADPHONES</h5>
           <p class="card-text">content is a little bit longer.</p>
           <h3>Rs.800</h3> </a>
         </div>
 
         <div class="col-3 m-1  border text-center fs-3">
-         <a href="product.html"><img src="img/productimages/head1.jpg" class="product mx-auto d-block" alt="...">
+         <a href="product.php"><img src="img/productimages/head1.jpg" class="product mx-auto d-block" alt="...">
           <h5 class="card-title">HEADPHONES</h5>
           <p class="card-text">content is a little bit longer.</p>
           <h3>Rs.800</h3> </a>
         </div>
         <div class="col-3 m-1 border text-center fs-3">
-         <a href="product.html"><img src="img/productimages/head2.jpg" class="product mx-auto d-block" alt="...">
+         <a href="product.php"><img src="img/productimages/head2.jpg" class="product mx-auto d-block" alt="...">
           <h5 class="card-title">HEADPHONES</h5>
           <p class="card-text">content is a little bit longer.</p>
           <h3>Rs.800</h3> </a>
@@ -257,6 +257,7 @@
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.10.2/dist/umd/popper.min.js" integrity="sha384-7+zCNj/IqJ95wo16oMtfsKbZ9ccEh31eOz1HGyDuCQ6wgnyJNSYdrPa03rtR1zdB" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.min.js" integrity="sha384-QJHtvGhmr9XOIpI6YVutG+2QOK9T+ZnN4kzFN1RtK3zEFEIsxhlmWl5/YESvpZ13" crossorigin="anonymous"></script>
     -->
+    
 </body>
 
 </html>

@@ -113,7 +113,7 @@
     <div class="container product-2">
       <div class="row">
         <div class="col-3 m-1 border text-center fs-3">
-        <img src="img/productimages/samsung/samsung-galaxy-on5-sm-3.jpeg" class="product mx-auto d-block" id="pimg2" alt="...">
+        <img src="img/productimages/samsung/samsung-galaxy-on5-sm-3.jpeg" class="product mx-auto d-block" id="pimg2" onclick="pimg2img(this)" alt="...">
          <a href="product.html"><h5 class="card-title">HEADPHONES</h5>
           <p class="card-text">content is a little bit longer.</p>
           <h3>Rs.800</h3> </a>
@@ -216,25 +216,10 @@
         </button>
       </div>
 
-      <script>
-        let plus = document.querySelector('#plus');
-let Subtract = document.querySelector('#subtract');
-let qvalue = document.querySelector('#qvalue');
 
-console.log(plus,Subtract,input);
 
-    let a = 1;
-
-plus.addEventListener('click', ()=>{
-   qvalue.value = parseInt(qvalue.value) + 1;
+      
     
-   
-});
-
-Subtract.addEventListener('click', ()=>{
-    
-});
-      </script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
     integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p"
     crossorigin="anonymous"></script>
